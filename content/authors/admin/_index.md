@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luxuan (Tina) WANG
+title: Luxuan WANG
 
 # Full name (for SEO)
 first_name: Luxuan
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate of Data Science and Analytics
+role: PhD Candidate of Data Science and Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,26 +22,24 @@ organizations:
     url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, spatiotemporal data mining, urban combuting, intelligent transportaion and logistics
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Spatiotemporal Data Mining
+  - Urban Combuting
+  - Intelligent Transportaion and Logistics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Data Science and Technology
+      institution: The Hong Kong University of Science and Technology
+      year: 2021 - now
+    - course: BEng in Systems Engineering and Management (Data Analytics)
+      institution: City University of Hong Kong
+      year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,14 +47,14 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: email
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,7 +72,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lwangda2connect.ust.hk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
