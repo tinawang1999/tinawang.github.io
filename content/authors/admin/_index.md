@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Luxuan (Tina) WANG
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Luxuan
+last_name: WANG
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate of Data Science and Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Hong Kong Univeristy of Science and Technology
+    url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
